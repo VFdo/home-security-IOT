@@ -1,19 +1,19 @@
-# home-security-IOT
+# home-security-IOT w/Telegram
 
-# System Base:
-  # NodeMCU Microcontroller
-    - mq135 -> smoke detector
-    - nRF24L01 -> receiver
+## System Base:
+  ### NodeMCU Microcontroller
+    + mq135 : smoke detector
+    + nRF24L01 : receiver
  
-# System Client:
-  # ArduinoUNO Microcontroller
-    - laser module -> motion sensor
-    - nRF24L01 -> transmitter
-    - buzzer
+## System Client:
+  ### ArduinoUNO Microcontroller
+    + laser module : motion sensor
+    + nRF24L01 : transmitter
+    + buzzer
 
-# Third-party:
+## Third-party:
   - TelegramBot
   
-# Communication:
+## Communication:
   - http protocol
   - radio (nRF24L01 tranciever)
