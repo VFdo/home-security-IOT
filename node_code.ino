@@ -7,7 +7,7 @@
 // telegram
 #include <UniversalTelegramBot.h>
 
-#define BOTtoken "5687077345:AAE5-pWkLch0eBgHFCkJ-6a59ZhgzqPa3UQ"  // Bot token 
+#define BOTtoken "5687077345:AAE5-pWkLch0eBgHWRkJ-6a59ZwefsPa3UQ"  // Bot token 
 char ssid[] = "Everyday Im Buffering!";         // Wifi SSID 
 char password[] = "P@ssw0rd";     // Wifi Password
 
