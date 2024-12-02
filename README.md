@@ -1,3 +1,6 @@
+![GitHub License](https://img.shields.io/github/license/VFdo/home-security-IOT) ![GitHub contributors](https://img.shields.io/github/contributors/VFdo/home-security-IOT)
+
+
 # Home-Security-IOT
 
 ### Description
